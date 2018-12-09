@@ -2,4 +2,8 @@ here is the first commit.
 make some change.
 add another line.
 ops, forgot something here.
+<<<<<<< HEAD
 adding someting awesome!
+=======
+adding something new.
+>>>>>>> testing
